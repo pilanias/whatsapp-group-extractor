@@ -7,7 +7,7 @@ This Chrome extension facilitates the extraction of mobile numbers from WhatsApp
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-extractor-extension.git 
+https://github.com/pilanias/whatsapp-group-extractor.git 
  ```
 
 2.  Open Google Chrome and navigate to `chrome://extensions/`.
